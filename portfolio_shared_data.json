@@ -147,6 +147,26 @@
         "name": "NPM",
         "class": "devicon-npm-original-wordmark",
         "level": "85"
+      },
+      {
+        "name": "Atom",
+        "class": "devicon-atom-original",
+        "level": "85"
+      },
+      {
+        "name": "C",
+        "class": "devicon-c-plain",
+        "level": "85"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "85"
       }
     ]
   }
